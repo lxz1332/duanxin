@@ -1,0 +1,13 @@
+{
+    "name": "cwkj/dx",
+    "description": "短信",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {},
+	"autoload":{
+		"psr-4":{
+			"cwkj\\dx\\":"src/"
+		}
+	}
+}
