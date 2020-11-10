@@ -5,7 +5,7 @@
     "license": "MIT",
     "minimum-stability": "dev",
     "require": {
-		
+		"tencentcloud/tencentcloud-sdk-php":"3.0.277"
 	},
 	"autoload":{
 		"psr-4":{
